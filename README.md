@@ -19,8 +19,8 @@ This repository contains the source code for a Lime Clone App built using React 
 ### Screenshots
 
 <div style="display: flex; flex-direction: 'row';">
-<img src="./screenshots/screenshot1.png" width=80%>
-<img src="./screenshots/screenshot2.png" width=80%>
+<img src="./screenshots/screenshot1.png" width=50%>
+<img src="./screenshots/screenshot2.png" width=50%>
 </div>
 
 ## Configuration
